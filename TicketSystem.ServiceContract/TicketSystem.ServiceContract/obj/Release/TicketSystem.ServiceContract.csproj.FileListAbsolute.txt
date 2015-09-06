@@ -1,0 +1,5 @@
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\TicketSystem.ServiceContract.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\TicketSystem.ServiceContract.pdb
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.csprojResolveAssemblyReference.cache
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.pdb

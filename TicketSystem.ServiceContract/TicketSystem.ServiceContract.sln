@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.ServiceContract", "TicketSystem.ServiceContract\TicketSystem.ServiceContract.csproj", "{74B3D7B9-1C08-4C6E-ADC2-80781305F06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStackServer", "ServiceStackServer\ServiceStackServer.csproj", "{97C131AB-AE26-4B5B-AE8F-C33A3A5E1631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B3D7B9-1C08-4C6E-ADC2-80781305F06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B3D7B9-1C08-4C6E-ADC2-80781305F06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B3D7B9-1C08-4C6E-ADC2-80781305F06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B3D7B9-1C08-4C6E-ADC2-80781305F06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C131AB-AE26-4B5B-AE8F-C33A3A5E1631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C131AB-AE26-4B5B-AE8F-C33A3A5E1631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C131AB-AE26-4B5B-AE8F-C33A3A5E1631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C131AB-AE26-4B5B-AE8F-C33A3A5E1631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
