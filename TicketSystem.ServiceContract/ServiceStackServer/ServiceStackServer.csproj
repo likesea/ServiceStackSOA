@@ -14,7 +14,7 @@
     <RootNamespace>ServiceStackServer</RootNamespace>
     <AssemblyName>ServiceStackServer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -110,7 +110,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>49468</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:49468/</IISUrl>
+          <IISUrl>http://localhost/ServiceStackServer</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

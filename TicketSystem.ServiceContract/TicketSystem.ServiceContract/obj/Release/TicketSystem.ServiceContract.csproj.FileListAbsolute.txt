@@ -3,3 +3,12 @@ C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.S
 C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.csprojResolveAssemblyReference.cache
 C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.dll
 C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.pdb
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\TicketSystem.ServiceContract.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\TicketSystem.ServiceContract.pdb
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\ServiceStack.Client.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\ServiceStack.Text.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\ServiceStack.Client.xml
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Release\ServiceStack.Text.xml
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Release\TicketSystem.ServiceContract.pdb

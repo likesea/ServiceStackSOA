@@ -21,7 +21,11 @@ namespace ServiceStackServer
 
         public Ticket Any(PullTicketRequest request)
         {
-           return new Ticket();
+           return new Ticket()
+           {
+               ServerId = 123,
+               Timestamp =  DateTime.Now
+           };
         }
     }
 }

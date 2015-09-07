@@ -3,3 +3,13 @@ C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.S
 C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\TicketSystem.ServiceContract.pdb
 C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Debug\TicketSystem.ServiceContract.dll
 C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\leetcode\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Debug\TicketSystem.ServiceContract.pdb
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\TicketSystem.ServiceContract.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\TicketSystem.ServiceContract.pdb
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\ServiceStack.Client.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\ServiceStack.Text.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\ServiceStack.Client.xml
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\bin\Debug\ServiceStack.Text.xml
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Debug\TicketSystem.ServiceContract.csprojResolveAssemblyReference.cache
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Debug\TicketSystem.ServiceContract.dll
+C:\Users\yanbi_000\Documents\Visual Studio 2013\Projects\ServiceStackSOA\TicketSystem.ServiceContract\TicketSystem.ServiceContract\obj\Debug\TicketSystem.ServiceContract.pdb
