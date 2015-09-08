@@ -10,6 +10,7 @@ namespace TicketSystem.ServiceContract
 {
     public class TicketSystemClient : JsonServiceClient
     {
+        public const string OriginalServiceName = "ServiceStackServer";
         public TicketSystemClient(string baseUrl) : base(baseUrl)
         {
             
@@ -17,7 +18,7 @@ namespace TicketSystem.ServiceContract
 
         private static string baseUrl = System.Configuration.ConfigurationManager.AppSettings["soaUrl"];
         public TicketSystemClient()
-            : base(baseUrl + "ServiceStackServer")
+            : base(baseUrl + OriginalServiceName)
         {
             
         }
